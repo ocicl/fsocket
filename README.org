@@ -1,0 +1,10 @@
+* fsocket
+
+Yet another socket FFI
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/fsocket.git   |
+| commit  | 499a0c4  |
+| systems | fsocket |
+|---------+-------------------------------------------|
+
